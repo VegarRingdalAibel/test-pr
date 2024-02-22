@@ -4,7 +4,7 @@
 > 3. To use this template, select 'Use this template' option and create a new repository from it.
 
 
-# Python Project Template
+# Python Project Template s
 
 Write something useful about the app/script you are making, what it does/solves.
 
